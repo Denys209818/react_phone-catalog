@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.58801277.css",
-    "main.js": "./static/js/main.4531f029.js",
+    "main.css": "./static/css/main.aa751e7c.css",
+    "main.js": "./static/js/main.d76ddd15.js",
     "static/media/CarouselTablet1.svg": "./static/media/CarouselTablet1.68d74b9448edfe8a3cf6.svg",
     "static/media/carousel.svg": "./static/media/carousel.5fd543af129c12c7aa6d.svg",
     "static/media/Montserrat-VariableFont_wght.ttf": "./static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -32,11 +32,11 @@
     "static/media/Minus.svg": "./static/media/Minus.60fd3f6514ad8fda3180.svg",
     "static/media/MinusDisabled.svg": "./static/media/MinusDisabled.516be7baaf852d99e70a.svg",
     "index.html": "./index.html",
-    "main.58801277.css.map": "./static/css/main.58801277.css.map",
-    "main.4531f029.js.map": "./static/js/main.4531f029.js.map"
+    "main.aa751e7c.css.map": "./static/css/main.aa751e7c.css.map",
+    "main.d76ddd15.js.map": "./static/js/main.d76ddd15.js.map"
   },
   "entrypoints": [
-    "static/css/main.58801277.css",
-    "static/js/main.4531f029.js"
+    "static/css/main.aa751e7c.css",
+    "static/js/main.d76ddd15.js"
   ]
 }
